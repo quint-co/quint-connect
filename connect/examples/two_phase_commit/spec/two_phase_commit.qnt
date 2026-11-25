@@ -1,5 +1,3 @@
-// -*- mode: Bluespec; -*-
-
 module two_phase_commit {
   import basicSpells.* from "basicSpells"
   import choreo(processes = NODES) as choreo from "choreo"
