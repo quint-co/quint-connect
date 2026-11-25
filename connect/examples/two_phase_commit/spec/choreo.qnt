@@ -1,5 +1,3 @@
-// -*- mode: Bluespec; -*-
-
 /**
  * Choreo: Choreograph distributed protocols in Quint
  *
